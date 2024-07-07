@@ -56,3 +56,8 @@ This project presents the development of an intelligent real-time hypoglycemia p
 
 ## License
 This project is licensed under the MIT License. See the **LICENSE** file for details.
+
+## Acknowledgements
+- **Supervised by:** **[Dr. Ahmed Fathy Elnokrashy](https://github.com/nokrashy)**
+
+- **Contributors:** **[Youssef Remah Mohamed](https://github.com/Youssef-Remah)**, **[Mahmoud Elrouby](https://github.com/Mr11011)**, **[Salma Ahmed Ali](https://github.com/SalmaAhmed112)**, **[Sherif Ali Mahmoud](https://github.com/sherif566)**, **[Rawan Saeed Elnagar](https://github.com/RawanElNagar)**
