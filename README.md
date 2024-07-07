@@ -1,4 +1,4 @@
-# Hypoglycemia Prediction (GlyCare App)
+# Hypoglycemia Prediction (GlyCare) App
 
 ## Project Overview
 This project presents the development of an intelligent real-time hypoglycemia prediction system designed to enhance diabetes management by providing accurate and timely predictions of hypoglycemic events. The system integrates deep learning algorithms within a mobile application that interacts with wearable devices, such as Continuous Glucose Monitoring (CGM) sensors and smartwatches, to collect real-time data on glucose levels, insulin dosages, physical activity, and sleep patterns.
@@ -53,3 +53,6 @@ This project presents the development of an intelligent real-time hypoglycemia p
 - **Monitor Data:** View real-time glucose levels, insulin dosages, and other health metrics within the app.
 
 - **Receive Alerts:** Get notified of predicted hypoglycemic events and take preventive measures.
+
+## License
+This project is licensed under the MIT License. See the **LICENSE** file for details.
