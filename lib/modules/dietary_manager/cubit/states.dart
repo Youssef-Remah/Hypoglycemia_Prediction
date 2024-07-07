@@ -1,0 +1,69 @@
+abstract class DietaryManagerStates {}
+
+class DietaryManagerInitialState extends DietaryManagerStates {}
+
+class DietaryManagerUpdateCarbLoadingState extends DietaryManagerStates {}
+
+class DietaryManagerUpdateCarbSuccessState extends DietaryManagerStates {}
+
+class DietaryManagerUpdateCarbErrorState extends DietaryManagerStates {}
+
+class DietaryManagerIngredientSearchLoadingState extends DietaryManagerStates {}
+
+class DietaryManagerIngredientSearchSuccessState extends DietaryManagerStates {}
+
+class DietaryManagerIngredientSearchErrorState extends DietaryManagerStates {}
+
+class DietaryManagerAddSelectedIngredientState extends DietaryManagerStates {}
+
+class DietaryManagerDuplicatedIngredientState extends DietaryManagerStates {}
+
+class DietaryManagerClearSelectedIngredientState extends DietaryManagerStates {}
+
+class DietaryManagerAddAmountToIngredientState extends DietaryManagerStates {}
+
+class DietaryManagerGetIngredientInformationLoadingState extends DietaryManagerStates {}
+
+class DietaryManagerGetIngredientInformationSuccessState extends DietaryManagerStates {}
+
+class DietaryManagerGetIngredientInformationErrorState extends DietaryManagerStates {}
+
+class DietaryManagerAddMealToDatabaseLoadingState extends DietaryManagerStates {}
+
+class DietaryManagerAddMealToDatabaseSuccessState extends DietaryManagerStates {}
+
+class DietaryManagerAddMealToDatabaseErrorState extends DietaryManagerStates {}
+
+class DietaryManagerGetMealsFromDatabaseLoadingState extends DietaryManagerStates {}
+
+class DietaryManagerGetMealsFromDatabaseSuccessState extends DietaryManagerStates {}
+
+class DietaryManagerGetMealsFromDatabaseErrorState extends DietaryManagerStates {}
+
+class DietaryManagerEmptyMealsInDatabaseState extends DietaryManagerStates {}
+
+class DietaryManagerGetSingleMealFromDatabaseLoadingState extends DietaryManagerStates {}
+
+class DietaryManagerGetSingleMealFromDatabaseSuccessState extends DietaryManagerStates {}
+
+class DietaryManagerGetSingleMealFromDatabaseErrorState extends DietaryManagerStates {}
+
+class DietaryManagerUpdateMealDetailsLoadingState extends DietaryManagerStates {}
+
+class DietaryManagerUpdateMealDetailsSuccessState extends DietaryManagerStates {}
+
+class DietaryManagerUpdateMealDetailsErrorState extends DietaryManagerStates {}
+
+class DietaryManagerDeleteMealFromDatabaseLoadingState extends DietaryManagerStates {}
+
+class DietaryManagerDeleteMealFromDatabaseSuccessState extends DietaryManagerStates {}
+
+class DietaryManagerDeleteMealFromDatabaseErrorState extends DietaryManagerStates {}
+
+class DietaryManagerGetIcrUnitsFromDatabaseSuccessState extends DietaryManagerStates {}
+
+class DietaryManagerGetIcrUnitsFromDatabaseErrorState extends DietaryManagerStates {}
+
+class DietaryManagerGetCarbIntakesAndShortTermInsulinFromDatabaseLoadingState extends DietaryManagerStates {}
+
+class DietaryManagerGetCarbIntakesAndShortTermInsulinFromDatabaseErrorState extends DietaryManagerStates {}
